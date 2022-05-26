@@ -39,17 +39,17 @@ module.exports = {
         global.colong1 = 'Ciss 📸'
         global.colong2 = 'by ArulzX'
         global.kontak2 = [
-        ['6288219647445', 'ArulzX', 'OWNER BOT', 'asrulff99@gmail.com', true],
-        ['6288228469842', 'Steven', 'Friend', 'Nothing!', true],
-        ['62895336282144', 'The.Sad.Boy01', 'Pembuat SC', 'Nothing!', true],
-        ['6288289857420', 'Fadil', 'Brother', 'Nothing!', true],
-        ['6281258407956', 'Havin', 'Friends', 'Nothing!', true],
-        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
-        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
-        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
-        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
-        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
-        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true]
+        ['6288219647445', '⎙ ArulzX', '⚔ OWNER BOT', '✓ asrulff99@gmail.com', true],
+        ['6288228469842', '⎙ Steven', '⚔ Friend', '⦸ Not Gmail !!', true],
+        ['62895336282144', '⎙ The.Sad.Boy01', ' Pembuat SC', '⦸ Not Gmail !!', true],
+        ['6288289857420', '⎙ Fadil', '⚔ Brother', 'Nothing!', true],
+        ['6281258407956', '⎙ Havin', '⚔ Friends', 'Nothing!', true],
+        ['6285694876318', '⎙ Suci', '⚔ Girls Friends', '⦸ Not Gmail !!', true],
+        ['628871772190', '⎙ Arul-MD', '⚔ Bot WhatsApp', '⦸ Not Gmail !!', true],
+        ['628871772190', '⎙ Arul-MD', '⚔ Bot WhatsApp', '⦸ Not Gmail !!', true],
+        ['628871772190', '⎙ Arul-MD', '⚔ Bot WhatsApp', '⦸ Not Gmail !!', true],
+        ['628871772190', '⎙ Arul-MD', '⚔ Bot WhatsApp', '⦸ Not Gmail !!', true],
+        ['628871772190', '⎙ Arul-MD', '⚔ Bot WhatsApp', '⦸ Not Gmail !!', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')

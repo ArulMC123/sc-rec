@@ -35,21 +35,21 @@ module.exports = {
         global.author = global.data.owner
         //global.author = 'The.sad.boy01'
         global.wm2 = global.data.namabot + ' ' + global.data.owner
-        global.wm = namabot + ' ву 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+        global.wm = namabot + ' By ArulzX'
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy 𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷'
+        global.colong2 = 'by ArulzX'
         global.kontak2 = [
-        ['62895336282144', '𝚃𝚑𝚎.𝚂𝚊𝚍.𝙱𝚘𝚢𝟶𝟷', 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'drakblue3@gmail.com', true],
-        ['6282140373458', 'Raxcel-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true],
-        ['6285691387625', 'Evil-𝙱𝙾𝚃', 'Bot WhatsApp', 'Nothing!', true]
+        ['6288219647445', 'ArulzX', 'OWNER BOT', 'asrulff99@gmail.com', true],
+        ['6288228469842', 'Steven', 'Friend', 'Nothing!', true],
+        ['62895336282144', 'The.Sad.Boy01', 'Pembuat SC', 'Nothing!', true],
+        ['6288289857420', 'Fadil', 'Brother', 'Nothing!', true],
+        ['6281258407956', 'Havin', 'Friends', 'Nothing!', true],
+        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
+        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
+        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
+        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
+        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true],
+        ['628871772190', 'Arul-MD', 'Bot WhatsApp', 'Nothing!', true]
         ]
         global.bg = await (await fetch(img)).buffer()
         global.time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
